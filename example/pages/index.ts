@@ -1,0 +1,6 @@
+export { DashboardPage } from './Dashboard'
+export { UsersPage } from './Users'
+export { UserDetailPage } from './UserDetail'
+export { SettingsPage } from './Settings'
+export { ReportsPage } from './Reports'
+export { RequirementIntakePage } from './RequirementIntake'
